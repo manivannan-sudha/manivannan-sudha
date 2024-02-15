@@ -1,5 +1,6 @@
 ### Hey it's Manivannan👋
 ![Visitor Count](https://profile-counter.glitch.me/{manivannan-sudha}/count.svg)
+<p> <img src="https://komarev.com/ghpvc/?username=manivannan-sudha&label=Profile%20views&color=FF90BC&style=flat" alt="manivannan-sudha" /> </p>
 
 - 🔭 I’m currently working on NodeJs
 - 🌱 I’m currently learning ReactJs
